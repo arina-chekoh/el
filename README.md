@@ -9,3 +9,8 @@ e-learning
  $conda deactivate
 ```
 
+ # install jupyter
+ 
+ ```sh
+  $conda install -c conda-forge jupyter lab
+ ```
